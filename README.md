@@ -70,3 +70,5 @@ sin(0.5) ≈ 0.507548 (actual: 0.479426)
 
 - If you encounter issues with the TensorFlow library, ensure that the library path is correctly set and that the library is installed in the specified directory.
 - For any other issues, please refer to the [TensorFlow C API documentation](https://www.tensorflow.org/install/lang_c). # -sin-inference-c-tensorflow
+
+Model Link: [Colab Notebook](https://colab.research.google.com/drive/1XISilEfcW48dPDGNztpoRlWfjGGnH3yB?usp=sharing)
